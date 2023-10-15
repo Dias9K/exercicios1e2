@@ -1,1 +1,1 @@
-Esse projetinho tem como intuito registrar o meu progresso na linguagem C com a resolução das questões disponíveis nessas duas listas de exercícios.
+Apenas registrando o meu progresso em C fazendo essas listas de exercícios que foram sugeridas pelo professor da faculdade.
