@@ -70,7 +70,12 @@ int main()
 
     case 7:
     {
-        //CONTINUAR AQUI
+        float celsius, fahrenheit;
+        printf("Digite uma temperatura em graus Fahrenheit para que a mesma seja apresentada em graus Celsius: ");
+        scanf("%f", &fahrenheit);
+        celsius = 5.0 * (fahrenheit - 32.0) / 9.0;
+        printf("A sua temperatura convertida em graus Celsius eh: %g\n", celsius);
+        break;
     }
 
     default:
